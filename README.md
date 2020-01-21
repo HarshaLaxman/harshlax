@@ -1,2 +1,1 @@
-# harshlax
-harshlax.com KISS
+# KISS
